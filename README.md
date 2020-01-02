@@ -6,9 +6,10 @@ This repository is going to be my project documentation. It will contain all inf
 
 # The Robot
 
-<html>img src='https://github.com/jmtaverne/Autonomous-Robot-using-a-Raspberry-Pi/blob/master/Images/IMG_2441.jpg?raw=true'  width="560" height="560"></html>
-<html>img src='https://github.com/jmtaverne/Autonomous-Robot-using-a-Raspberry-Pi/blob/master/Images/IMG_5375.jpg?raw=true'  width="560" height="560"></html>
-<html>img src='https://github.com/jmtaverne/Autonomous-Robot-using-a-Raspberry-Pi/blob/master/Images/IMG_6008.jpg?raw=true'  width="560" height="560"></html>
+![image 1](https://github.com/jmtaverne/Autonomous-Robot-using-a-Raspberry-Pi/blob/master/Images/IMG_2441.jpg?raw=true)
+![image 2](https://github.com/jmtaverne/Autonomous-Robot-using-a-Raspberry-Pi/blob/master/Images/IMG_5375.jpg?raw=true)
+![image 3](https://github.com/jmtaverne/Autonomous-Robot-using-a-Raspberry-Pi/blob/master/Images/IMG_6008.jpg?raw=true)
+
 
 <html><hr></html>
 
