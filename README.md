@@ -33,4 +33,13 @@ This repository is going to be my project documentation. It will contain all inf
  * 1x Pin Set (https://www.amazon.de/gp/product/B07DBY753C/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
  
 
+<html><hr></html>
 
+# Assembling your Robot
+Coming soon
+
+
+<html><hr></html>
+
+# Hardware Setup
+Coming soon
